@@ -1,4 +1,4 @@
-This project has been created to demonstrate how a basic 3D engine works.
+This project has been created to share that how how a basic 3D engine works.
  Please note that by the word basic I mean that this 3D engine will not do any kind of raytracing, animation or anything else.
  It's for developers who are wondering how the 3D engine works and how to show a basic 3D shape with only its coordinates on a 2D screen.
 For better explanation of projecting 3d coordinates on 2d space check this answer written by me:- https://stackoverflow.com/a/74890600/20496842
