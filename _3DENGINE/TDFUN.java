@@ -57,14 +57,6 @@ sum=0;
 }
  return result;
      }
-     
-public static int asignvar(int[] a,int b){
-    return a[b];
- }
-public static double asignvar(double[] a,int b){
-    return a[b];
- }
- 
 public static double Sin(double a){
    double radians = Math.toRadians(a); 
         double sinValue = Math.sin(radians); 
